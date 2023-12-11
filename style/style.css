@@ -1,0 +1,255 @@
+.bg-p{
+    background-color: #15152D;
+}
+#main-txt{
+    color: #FFF;
+    font-family: Jockey One;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 174.051%; /* 167.089px */
+}
+
+#mainPage{
+    color: #FFF;
+    font-family: Jockey One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 174.051%; /* 167.089px */
+}
+#profile{
+    background-color: #181818;
+    max-height: 700px;
+}
+#profile-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 70%;
+    max-height: 650px;
+}
+#mainPage-info{
+    color: #FFF;
+    font-family: Kanit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 110px;
+}
+#aboutMe-container{
+    background-color: #0F0F0F;
+}
+
+#aboutMe-title{
+    color: #C8C8C8;
+    text-align: left;
+    font-family: Kanit;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.aboutMeCard-title{
+    color: #FFF;
+    font-family: Calistoga;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;    
+}
+.aboutMeCard-subTitle{
+    color: #FFF;
+    font-family: Calistoga;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.aboutMeCard-body{
+    color: #FFF;
+    font-family: Caladea;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.325%; /* 46.184px */
+}
+
+.skillsetTheme{
+    background-color: #050712;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+#skillsetTopic{
+    color: #FFF;
+    font-family: Calistoga;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.325%; /* 92.368px */
+    text-decoration-line: underline;
+}
+
+#skillsetBody{
+    color: #FFF;
+    font-family: Caladea;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.325%; /* 46.184px */
+}
+
+.skillsTitle{
+    color: #FFF;
+    font-family: Caladea;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 144.325%; /* 47.627px */
+    text-decoration-line: underline;
+    display: inline;
+}
+
+.skillsImg{
+    float:left;
+    width: 48px;
+    height: 48px;
+    margin-right: 10px;
+}
+
+.skillsBody{
+    color: #FFF;
+    font-family: Caladea;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 194.325%;
+}
+
+.projectsTheme{
+    background-color: #000;
+}
+
+#projectsTitle{
+    color: #FFF;
+    font-family: Kanit;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.325%; /* 51.957px */
+    text-decoration-line: underline;
+}
+
+#projectsBody{
+    color: #FFF;
+    font-family: Kanit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.325%; /* 51.957px */
+    text-decoration-line: underline;
+}
+
+.fasionShopImg{
+    max-width:200px;
+    max-width: 300px;
+}
+
+.cardBg{
+    background-color: #090920 !important;
+}
+
+.cardTitle{
+    color: #FFF !important;
+    text-align: center;
+    font-family: Kanit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.325%; /* 51.957px */
+    text-decoration-line: underline;
+}
+
+.taxCalImg{
+    max-width:500px;
+    max-width: 500px;
+}
+
+.fashioShopcmdImg{
+    max-width:500px;
+    max-width: 500px;
+}
+
+.achievementsTitle{
+    color: #FFF;
+    text-align: center;
+    font-family: Calistoga;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.325%; /* 92.368px */
+    text-decoration-line: underline;
+}
+
+.alignCenter{
+    text-align: center;
+}
+
+.achievementsBody{
+    color: #FFF;
+    text-align: center;
+    font-family: Calistoga;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 194.325%; /* 62.184px */
+}
+
+.conatactMeTheme{
+    background-color:#090920;
+}
+
+#contactMeTitle{
+    color: #FFF;
+    font-family: Calistoga;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.325%; /* 92.368px */
+    text-decoration-line: underline;
+}
+
+.contactMeText{
+    color: #FFF;
+    font-family: Cabin Condensed;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.325%; /* 46.184px */
+}
+
+.contactMeSignature{
+    color: #FFF;
+    font-family: Katibeh;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.325%; /* 138.552px */
+}
+
+.inputTitle{
+    color: #FFF;
+    font-family: Calistoga;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 144.325%; /* 51.957px */
+}
